@@ -1,7 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Ashish Singh</h1>
+<h1 align="center">Hey there  , I'm Ashish Singh</h1>
 
 <p align="center">
-  <em>Backend Developer in the making &nbsp;•&nbsp; NIT Student &nbsp;•&nbsp; Building systems that actually scale</em>
+  <em>Backend Developer in the making &nbsp;•&nbsp; National Institute of Technology, Raipur &nbsp;•&nbsp; Building systems that actually scale</em>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **NIT Student** — Computer Science / Engineering
+- 🎓 **NIT Raipur ** — Masters of Computer Applications
 - 🔧 Passionate about **backend development** — building APIs, distributed systems & microservices
 - 📨 Recently built a project using **Apache Kafka** for real-time event streaming
 - 🌱 Currently deepening my knowledge of **Spring Boot**, **Redis caching**, and **Docker**
@@ -34,6 +34,7 @@
 ### Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
@@ -42,7 +43,19 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+### Build Tools
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+
+### Architecture Pattern 
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-0e75b6?style=for-the-badge&logoColor=white)
+![Monolithic](https://img.shields.io/badge/Monolithic-Architecture-6DB33F?style=for-the-badge&logoColor=white)
+![Multi Module](https://img.shields.io/badge/Multi--Module-Maven/Gradle-ED8B00?style=for-the-badge&logoColor=white)
+
+###IDEs
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
 
