@@ -94,12 +94,13 @@ If you know a project that's beginner-friendly, feel free to drop a suggestion!
   <a href="https://github.com/singhashish-commits" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-singhashish--commits-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Add your LinkedIn below when ready -->
-  <!-- <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/ashish-kumar-449215349" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
+  </a>
+  <a href="https://x.com/Ashish_SinghCs" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@Ashish__SinghCs-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 <p align="center">
